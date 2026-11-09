@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCC6E0,50:B8C9E8,100:D9E8E8&height=190&section=header&text=Hello%20There!&fontSize=48&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<img src="https://media.tenor.com/4b5zv5u9u4AAAAAC/anime-girl.gif" width="150"/>
+<img src="Denia.jpg" width="100%" alt="Soft Anime Banner"/>
 
 # ୨୧ Hi, I'm Handika
 
