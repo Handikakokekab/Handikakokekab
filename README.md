@@ -3,7 +3,7 @@
 
 <img src="Denia.jpg" width="100%" alt="Soft Anime Banner"/>
 
-# ୨୧ Hi, I'm Handika
+# Hi, I'm Handika
 
 ### こんにちは、私のプロフィールへようこそ。
 
@@ -15,7 +15,7 @@
 
 ## ✧ About Me
 
-<img align="right" width="135" src="https://media.tenor.com/4b5zv5u9u4AAAAAC/anime-girl.gif"/>
+<img align="right" width="200" src="Elipix.jpg"/>
 
 ```yaml
 Name: Handika
@@ -42,7 +42,7 @@ Mindset: One step at a time.
 
 <div align="center">
 
-<img src="https://media.tenor.com/4b5zv5u9u4AAAAAC/anime-girl.gif" width="110"/>
+<img src="Headphone.jpg" width="210"/>
 
 ### ♪ Music is my little escape.
 
