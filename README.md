@@ -20,13 +20,12 @@
 <img align="right" width="135" src="https://media.tenor.com/4b5zv5u9u4AAAAAC/anime-girl.gif"/>
 
 ```yaml
-Name: Dika
-Location: Indonesia
+Name: Handika
 Interests:
-  - Programming
   - Anime
   - Music
   - Technology
+  - Football
 Currently: Learning to code
 Mindset: One step at a time.
 ```
