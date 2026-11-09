@@ -88,7 +88,7 @@ Mindset: One step at a time.
 
 Thanks for visiting my profile!
 
-<img src="Shore.jpg" width="100%"/>
+<img src="Shore.jpg" width="90%"/>
 
 </div>
 
