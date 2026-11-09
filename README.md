@@ -70,7 +70,7 @@ Mindset: One step at a time.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=eff1f5&color=7287fd&line=ea76cb&point=8839ef&area=true&hide_border=true&radius=12" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Handikakokekab&bg_color=eff1f5&color=7287fd&line=ea76cb&point=8839ef&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -78,7 +78,7 @@ Mindset: One step at a time.
 
 <div align="center">
 
-<img src="https://media.tenor.com/4b5zv5u9u4AAAAAC/anime-girl.gif" width="100"/>
+<img src="Cupang pink.jpg" width="100"/>
 
 `✦` `♡` `✧` `☁` `☆`
 
@@ -88,7 +88,7 @@ Mindset: One step at a time.
 
 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9E8E8,50:B8C9E8,100:DCC6E0&height=120&section=footer" width="100%"/>
+<img src="Shore.jpg" width="100%"/>
 
 </div>
 
