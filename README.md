@@ -7,7 +7,7 @@
 
 ### こんにちは、私のプロフィールへようこそ。
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&duration=3500&pause=1000&color=B49FCC&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+world+%E2%9C%A7;Learning+and+creating+something+new;Code+%E2%80%A2+Anime+%E2%80%A2+Music;Enjoy+the+little+things+in+life+%E2%99%A1)][]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&duration=3500&pause=1000&color=B49FCC&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+world+%E2%9C%A7;Learning+and+creating+something+new;Code+%E2%80%A2+Anime+%E2%80%A2+Music;Enjoy+the+little+things+in+life+%E2%99%A1)][def]
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCC6E0,100:B8C9E8&height=2" width="75%"/>
 
