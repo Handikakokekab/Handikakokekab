@@ -56,13 +56,13 @@ Mindset: One step at a time.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Handikakokekab&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=12"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handikakokekab&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=12"/>
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=catppuccin-latte&hide_border=true&border_radius=12"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=Handikakokekab&theme=catppuccin-latte&hide_border=true&border_radius=12"/>
 
 </div>
 
