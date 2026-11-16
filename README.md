@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="Denia.jpg" width="100%" alt="Handika Profile Banner"/>
+<img src="download.gif" width="100%" alt="Handika Profile Banner"/>
 
 <br/>
 
