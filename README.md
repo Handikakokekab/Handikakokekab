@@ -85,21 +85,7 @@ Hi! I'm **Handika**, a student who enjoys exploring the world of programming, te
 
 <div align="center">
 
-<<<<<<< HEAD
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Handikakokekab&bg_color=ffffff&color=9B83B5&line=E9A84A&point=E9A84A&area=true&hide_border=true&radius=12"/>
-=======
-<img src="Cupang pink.jpg" width="100"/>
-
-`✦` `♡` `✧` `☁` `☆`
-
-### 「自分のペースで進もう」
-
-*Let's move at our own pace.*
-
-Thanks for visiting my profile!
-
-<img src="Shore.jpg" width="90%"/>
->>>>>>> b91fa09bd9e63590bd52666786beaa66f585e5bb
 
 </div>
 
