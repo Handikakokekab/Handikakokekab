@@ -35,7 +35,7 @@
 
 ```yaml ## ✦ About Me
 
-Hi! I'm **Handika**, a student who enjoys exploring the world of programming, technology, and design.
+Hi! I'm Handika, a student who enjoys exploring the world of programming, technology, and design.
 
 - Currently learning programming.
 - Interested in software development.
@@ -43,7 +43,7 @@ Hi! I'm **Handika**, a student who enjoys exploring the world of programming, te
 - Always curious about how things work.
 - Learning something new every day.
 
-> "Small steps, big changes."
+"Small steps, big changes."
 ```
 </td>
 
