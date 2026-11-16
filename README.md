@@ -180,7 +180,7 @@ A collection of useful tools and experiments.
 
 <div align="center">
 
-<img src="musicb.jpg" width="100%" alt="Favorite Music Banner"/>
+<img src="musicc.jpg" width="100%" alt="Favorite Music Banner"/>
 
 <br/>
 
