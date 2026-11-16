@@ -53,7 +53,7 @@ Hi! I'm Handika, a student who enjoys exploring the world of programming, techno
 
 **Handikakokekab**
 
-<sub>Student • Developer • Dreamer</sub>
+<sub>Student • Developer • Dreamer •</sub>
 
 </td>
 </tr>
@@ -323,11 +323,13 @@ A collection of useful tools and experiments.
 <img src="https://img.shields.io/badge/Instagram-FCE8EF?style=for-the-badge&logo=instagram&logoColor=C56D91"/>
 </a>
 
-<br/><br/>
+<br/>
+
+<img src="Cupang pink.jpg" width="100"/>
 
 <i>Feel free to explore my repositories and projects.</i>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9DDF5,50:F8EAF0,100:FCE4B5&height=130&section=footer"/>
 
