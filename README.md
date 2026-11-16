@@ -180,7 +180,7 @@ A collection of useful tools and experiments.
 
 <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr109TBkRhsACQIjo2GqGRwgWSLg6tL7SihOyHRPO45w&s=10" width="100%" alt="Favorite Music Banner"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytm4G46QDwqFMtF37tFPNSB4PahX84OWV-tSQV_wV-Q&s=10" width="100%" alt="Favorite Music Banner"/>
 
 <br/>
 
