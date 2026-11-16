@@ -1,215 +1,348 @@
 
-<!--
-  SOFT ANIME PROFILE
-  Theme: Lavender / Cream / Baby Blue
-  Username: Handikakokekab
-
-  ASSETS:
-  assets/banner.png
-  assets/pixel-girl.gif
-  assets/pixel-cat.gif
-  assets/music-anime.png
-  assets/pixel-divider.gif
-  assets/pixel-stars.png
--->
-
-<!-- =============== HERO =============== -->
+<!-- =========================================
+     HANDIKA'S GITHUB PROFILE
+     Soft Anime × Clean Developer
+     Lavender • White • Amber
+========================================== -->
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Soft Anime Banner"/>
+<!-- HERO BANNER -->
+<img src="./assets/banner.png" width="100%" alt="Handika Profile Banner"/>
 
 <br/>
 
-<img src="./assets/pixel-girl.gif" width="125" alt="Pixel Anime Girl"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=3000&pause=1000&color=E9A84A&center=true&vCenter=true&width=550&lines=Hello%2C+World!+%E2%9C%A8;Welcome+to+my+GitHub!;Code+%E2%80%A2+Learn+%E2%80%A2+Create;Small+steps%2C+big+changes." alt="Typing SVG"/>
 
-<br/>
+<p>
+<i>Thanks for visiting my little corner of the internet ♡</i>
+</p>
 
-# ୨୧  Hello, I'm Dika.
-
-### ちいさな世界へようこそ。
-
-*An ordinary person in an extraordinary digital world.*
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=17&duration=3500&pause=1200&color=9B8BB8&center=true&vCenter=true&width=480&lines=Welcome+to+my+little+corner+%E2%9C%A7;Learning+something+new+every+day;Code%2C+music+and+little+dreams;Enjoy+the+little+things+%E2%99%A1)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DCCCE8,50:C7D5EB,100:DCE9E4&height=2" width="65%"/>
+<img src="https://img.shields.io/badge/Developer-FFF0D9?style=flat-square&logo=github&logoColor=D99B42"/>
+<img src="https://img.shields.io/badge/Student-F1EAFB?style=flat-square&logo=bookstack&logoColor=9675BC"/>
+<img src="https://img.shields.io/badge/Anime%20Lover-FCE8EF?style=flat-square&logo=crunchyroll&logoColor=DB8BA5"/>
+<img src="https://komarev.com/ghpvc/?username=Handikakokekab&label=Profile%20Views&color=E9A84A&style=flat-square"/>
 
 </div>
 
-<!-- =============== INTRODUCTION =============== -->
+---
 
-<br/>
-
-<div align="center">
-
-## ✧ A LITTLE ABOUT ME ✧
-
-*静かな時間と、小さな夢。*
-
-</div>
-
-<table border="0">
-<tr>
-<td width="62%" valign="middle">
-
-### Hello, stranger! ♡
-
-I'm Dika, someone who enjoys exploring technology, music, and the little details of life.
-
-- Currently learning programming.
-- Interested in computers and technology.
-- Enjoying anime and music.
-- Always curious about something new.
-
-**One step at a time.**
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="./assets/pixel-girl.gif" width="145" alt="Anime Pixel Character"/>
-
-<sub>✦ just living in my own world ✦</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- =============== SKILLS =============== -->
-
-<div align="center">
-
-## ୨୧ MY DIGITAL TOOLKIT
-
-<sub>Things I use while learning and creating.</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode,git,github&theme=light" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6D9EF,100:D5E3F1&height=2" width="55%"/>
-
-</div>
-
-<!-- =============== MUSIC =============== -->
-
-<div align="center">
-
-## ♬ THE LITTLE MUSIC ROOM
-
-<sub>Some songs make ordinary days feel special.</sub>
-
-<br/><br/>
-
-<img src="./assets/music-anime.png" width="260" alt="Anime Girl Listening to Music"/>
-
-</div>
+<!-- ABOUT ME -->
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="65%" valign="top">
 
-<img src="./assets/pixel-cat.gif" width="75" alt="Pixel Cat"/>
+```yaml ## ✦ About Me
 
+Hi! I'm **Handika**, a student who enjoys exploring the world of programming, technology, and design.
+
+- Currently learning programming.
+- Interested in software development.
+- Enjoy anime, music, and creative things.
+- Always curious about how things work.
+- Learning something new every day.
+
+> "Small steps, big changes."
+```
 </td>
-<td width="75%">
 
-**NOW PLAYING**
+<td width="35%" align="center" valign="middle">
 
-**Lemonade — Hearts2Hearts**
+<img src="https://github.com/Handikakokekab.png" width="180" alt="Profile Avatar"/>
 
-<sub>♪ Favorite music corner · J-Pop · K-Pop</sub>
+**Handikakokekab**
 
-`♡` `♪` `✧` `♫`
+<sub>Student • Developer • Dreamer</sub>
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- GITHUB OVERVIEW -->
+
+## ✦ GitHub Overview
+
 <div align="center">
 
-<sub>♫ Music is a little escape from reality ♫</sub>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Handikakokekab&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=12&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handikakokekab&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=12"/>
+
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Handikakokekab&theme=catppuccin-latte&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+## ✦ Contribution Journey
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Handikakokekab&bg_color=ffffff&color=9B83B5&line=E9A84A&point=E9A84A&area=true&hide_border=true&radius=12"/>
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+
+## ✦ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Handikakokekab?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-E9A84A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- =============== GITHUB STATS =============== -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Anime World
+
+A personal space for anime information and collections.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Study Notes
+
+My study notes, learning materials, and summaries.
+
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Personal Portfolio
+
+A personal website to showcase my work and progress.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Dev Tools
+
+A collection of useful tools and experiments.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- SKILLS AND TOOLS -->
+
+## ✦ Skills & Tools
 
 <div align="center">
 
-## ✧ MY GITHUB JOURNEY
+### Programming Languages
 
-<sub>A little progress, one commit at a time.</sub>
-
-<br/><br/>
-
-<img src="./profile/stats.svg" width="90%" alt="GitHub Statistics"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript&theme=light"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handikakokekab&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=16&title_color=9B8BB8" width="75%" alt="Top Languages"/>
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma&theme=light"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Handikakokekab&theme=catppuccin-latte&hide_border=true&border_radius=16" width="90%" alt="GitHub Streak"/>
+### Currently Learning
+
+<img src="https://img.shields.io/badge/Problem%20Solving-E9DDF5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Structures-FCE4B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20Development-F8EAF0?style=flat-square"/>
 
 </div>
 
-<br/>
+---
 
-<!-- =============== CONTRIBUTIONS =============== -->
+<!-- FAVORITE MUSIC -->
+
+## ♡ Favorite Music
 
 <div align="center">
 
-## 🌱 MY CONTRIBUTION GARDEN
+<img src="./assets/music-banner.png" width="100%" alt="Favorite Music Banner"/>
 
-<sub>Every little contribution is part of the journey.</sub>
+<br/>
+
+<i>A little playlist for my everyday life ♡</i>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Handikakokekab&bg_color=eff1f5&color=7287fd&line=ea76cb&point=8839ef&area=true&hide_border=true&radius=12" width="100%" alt="Contribution Graph"/>
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://open.spotify.com/search/Hearts2Hearts%20Lemon%20Tang">
+<img src="https://placehold.co/180x180/FCEBCB/9B83B5?text=Lemon+Tang" width="150" alt="Lemon Tang"/>
+</a>
+
+<br/><br/>
+
+**Lemon Tang**
+
+<sub>Hearts2Hearts</sub>
+
+<br/>
+
+<a href="https://open.spotify.com/search/Hearts2Hearts%20Lemon%20Tang">
+<img src="https://img.shields.io/badge/Listen-E9A84A?style=flat-square&logo=spotify&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://open.spotify.com/search/Hearts2Hearts%20RUDE">
+<img src="https://placehold.co/180x180/EDE3F8/9B83B5?text=RUDE%21" width="150" alt="RUDE"/>
+</a>
+
+<br/><br/>
+
+**RUDE!**
+
+<sub>Hearts2Hearts</sub>
+
+<br/>
+
+<a href="https://open.spotify.com/search/Hearts2Hearts%20RUDE">
+<img src="https://img.shields.io/badge/Listen-E9A84A?style=flat-square&logo=spotify&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://open.spotify.com/search/Hearts2Hearts%20ICONIC%20HEART">
+<img src="https://placehold.co/180x180/FCE5EF/9B83B5?text=Iconic+Heart" width="150" alt="ICONIC HEART"/>
+</a>
+
+<br/><br/>
+
+**ICONIC HEART**
+
+<sub>Hearts2Hearts</sub>
+
+<br/>
+
+<a href="https://open.spotify.com/search/Hearts2Hearts%20ICONIC%20HEART">
+<img src="https://img.shields.io/badge/Listen-E9A84A?style=flat-square&logo=spotify&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<sub>♪ Currently on repeat — Hearts2Hearts ♡</sub>
 
 </div>
 
-<br/>
+---
 
-<!-- =============== PIXEL CORNER =============== -->
+<!-- CURRENT FOCUS -->
+
+## ✦ Currently Exploring
 
 <div align="center">
 
-<img src="./assets/pixel-divider.gif" width="220" alt="Pixel Decoration"/>
+| Focus | Goal |
+|:---|:---|
+| Programming | Improve problem-solving skills |
+| Algorithms | Understand DSA fundamentals |
+| Projects | Build useful personal projects |
+| Design | Create clean and functional interfaces |
+| Open Source | Learn to contribute to projects |
 
-<br/>
+</div>
 
-<img src="./assets/pixel-cat.gif" width="100" alt="Pixel Cat"/>
+---
 
-### 「自分のペースで進もう」
+<!-- LEARNING JOURNEY -->
 
-*Take your time. Everything has its own pace.*
+## ✦ My Learning Journey
 
-<br/>
+<div align="center">
 
-<sub>Thanks for stopping by my little corner of GitHub.</sub>
+<img src="https://img.shields.io/badge/Step%2001-Learn-E9DDF5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Step%2002-Build-FCE4B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Step%2003-Improve-F8EAF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Step%2004-Repeat-E9DDF5?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="./assets/pixel-stars.png" width="180" alt="Pixel Stars"/>
+<i>There is always something new to discover.</i>
+
+</div>
+
+---
+
+<!-- QUOTE -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin"/>
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+## ✦ Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/Handikakokekab">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=24292F"/>
+</a>
+
+<a href="https://www.instagram.com/cyliezy.ya/">
+<img src="https://img.shields.io/badge/Instagram-FCE8EF?style=for-the-badge&logo=instagram&logoColor=C56D91"/>
+</a>
+
+<br/><br/>
+
+<i>Feel free to explore my repositories and projects.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9DDF5,50:F8EAF0,100:FCE4B5&height=130&section=footer"/>
 
 <br/>
 
-**See you around! ୨୧**
+### Keep coding, keep dreaming! ✦
+
+<sub>Thanks for scrolling all the way down ♡</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCE9E4,50:C7D5EB,100:DCCCE8&height=120&section=footer" width="100%"/>
+<sub>© 2026 Handikakokekab</sub>
 
 </div>
