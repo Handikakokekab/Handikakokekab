@@ -47,9 +47,9 @@ Hi! I'm Handika, a student who enjoys exploring the world of programming, techno
 ```
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
 
-<img src="https://github.com/Handikakokekab.png" width="180" alt="Profile Avatar"/>
+<img src="https://github.com/Handikakokekab.png" width="300" alt="Profile Avatar"/>
 
 **Handikakokekab**
 
@@ -67,11 +67,7 @@ Hi! I'm Handika, a student who enjoys exploring the world of programming, techno
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Handikakokekab&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=12&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handikakokekab&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=12"/>
-
-<br/><br/>
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Handikakokekab&theme=catppuccin-latte&hide_border=true&border_radius=12"/>
 
@@ -184,7 +180,7 @@ A collection of useful tools and experiments.
 
 <div align="center">
 
-<img src="./assets/music-banner.png" width="100%" alt="Favorite Music Banner"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK999KqWSopmXs-Y1RtJXRK5ttyb1VU5Y8HUBU7jSxlg&s=10" width="100%" alt="Favorite Music Banner"/>
 
 <br/>
 
@@ -198,7 +194,7 @@ A collection of useful tools and experiments.
 <td align="center" width="33%">
 
 <a href="https://open.spotify.com/search/Hearts2Hearts%20Lemon%20Tang">
-<img src="https://placehold.co/180x180/FCEBCB/9B83B5?text=Lemon+Tang" width="150" alt="Lemon Tang"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKnkOq7mVBGZUdoG5QuMfpRJMhRZ387BsBCfh8ef_tw&s" width="150" alt="Lemon Tang"/>
 </a>
 
 <br/><br/>
@@ -218,7 +214,7 @@ A collection of useful tools and experiments.
 <td align="center" width="33%">
 
 <a href="https://open.spotify.com/search/Hearts2Hearts%20RUDE">
-<img src="https://placehold.co/180x180/EDE3F8/9B83B5?text=RUDE%21" width="150" alt="RUDE"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTeELs8ufCKakf2OKDMtn2r_V2ib4UJbMA8i0crdflA&s=10" width="150" alt="RUDE"/>
 </a>
 
 <br/><br/>
@@ -238,7 +234,7 @@ A collection of useful tools and experiments.
 <td align="center" width="33%">
 
 <a href="https://open.spotify.com/search/Hearts2Hearts%20ICONIC%20HEART">
-<img src="https://placehold.co/180x180/FCE5EF/9B83B5?text=Iconic+Heart" width="150" alt="ICONIC HEART"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ8uZXSfbUZBb8bLIJcsHQp7j_FeYW7D8BY41GcXNmCQ&s=10" width="150" alt="ICONIC HEART"/>
 </a>
 
 <br/><br/>
